@@ -8,8 +8,11 @@
     "@testing-library/user-event": "^7.1.2",
     "baseui": "9.85.2",
     "firebase": "^7.17.1",
+    "prettier": "^2.0.5",
+    "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
     "styletron-engine-atomic": "^1.4.6",
     "styletron-react": "^5.2.7"
@@ -37,6 +40,7 @@
   },
   "devDependencies": {
     "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-baseui": "^9.85.2",
     "eslint-plugin-import": "^2.22.0",
     "eslint-plugin-jsx-a11y": "^6.3.1",
